@@ -1,0 +1,158 @@
+{
+	"list":[
+	{
+		"name":"24K纯帅",
+		"bg":"./src/assets/图层 18383.png",
+		"head":"./src/assets/图层 1736.png",
+		"look":"27",
+		"book":"0",
+		"res":"1",
+		"fans":"342",
+		"follow":"34",
+		"url":[
+		"./src/assets/图层 1831.png",
+		"./src/assets/图层 18311.png"
+		]
+	}
+	],
+	"data":[
+	{
+		"iurl":"./src/assets/图层 1289.png",
+		"name":"威哥",
+		"height":"173cm",
+		"where":"杭州市",
+		"style":"短发",
+		"url":[
+		"./src/assets/图层 12891.png",
+		"./src/assets/图层 12894.png",
+		"./src/assets/图层 12895.png"
+		]
+	},
+	{
+		"iurl":"./src/assets/图层 1313.png",
+		"name":"赵方方fun",
+		"height":"163cm",
+		"where":"北京",
+		"style":"短发",
+		"url":[
+		"./src/assets/图层 13131.png",
+		"./src/assets/图层 13132.png",
+		"./src/assets/图层 13134.png"
+		]
+	}
+	],
+	"rank":[
+			{
+				"url":"./src/assets/图层 1108.png",
+				"rec":"+18"
+			},
+		{
+			"url":"./src/assets/图层 11081.png",
+			"rec":"+19"
+		},
+		{
+			"url":"./src/assets/图层 11082.png",
+			"rec":"+14"
+		},
+		{
+			"url":"./src/assets/图层 1136.png",
+			"rec":"+16"
+		},
+		{
+			"url":"./src/assets/图层 11362.png",
+			"rec":"+19"
+		},
+		{
+			"url":"./src/assets/图层 11363.png",
+			"rec":"+15"	
+		},
+		{
+			"url":"./src/assets/图层 11364.png",
+			"rec":"+14"
+		},
+		{
+			"url":"./src/assets/图层 11366.png",
+			"rec":"+14"
+		},
+		{
+			"url":"./src/assets/图层 11368.png",
+			"rec":"+14"
+		}
+		],
+		"people":[
+	{
+		"name":"KiteLab",
+		"saying":"无名时尚博主  资深淘宝剁手族  微博KiteLab",
+		"fans":"543",
+		"follow":"54",
+		"bg":"./src/assets/图层 598.png",
+		"backgr":"./src/assets/图层 597.png"
+		}
+	],
+	"label":[
+	{"url":"./src/assets/图层 836.png"},
+	{"url":"./src/assets/图层 836.png"},
+	{"url":"./src/assets/图层 8361.png"},
+	{"url":"./src/assets/图层 838.png"}
+],
+"my":[
+	{
+		"burl":"./src/assets/头像.png",
+		"name":"J.Hill",
+		"height":"172cm",
+		"style":"长发",
+		"saying":"巧用叠穿搭出层次感",
+		"url":[
+		"./src/assets/图层 23.png",
+		"./src/assets/图层 835.png",
+		"./src/assets/图层 83611.png"
+		]
+	},
+	{
+		"burl":"./src/assets/头像.png",
+		"name":"J.Hill",
+		"height":"172cm",
+		"style":"长发",
+		"saying":"巧用叠穿搭出层次感",
+		"url":["./src/assets/图层 23.png","./src/assets/图层 835.png","./src/assets/图层 83611.png"]
+	},
+	{
+		"burl":"./src/assets/头像.png",
+		"name":"J.Hill",
+		"height":"172cm",
+		"style":"长发",
+		"saying":"巧用叠穿搭出层次感",
+		"url":["./src/assets/图层 23.png","./src/assets/图层 835.png","./src/assets/图层 83611.png"]
+	}
+	],
+	"hot":[
+	{
+		"name":"牛仔大作战",
+		"play":"54343",
+		"id":"newn",
+		"such":[
+		"./src/assets/图层 907.png","./src/assets/图层 9071.png","./src/assets/图层 9072.png"
+		]
+	},{
+		"name":"就是爱玩色",
+		"play":"158346",
+		"id":"news",
+		"such":[
+		"./src/assets/图层 922.png","./src/assets/图层 9222.png","./src/assets/图层 9224.png"
+		]
+	},{
+		"name":"吃我一安利",
+		"play":"12436",
+		"id":"newc",
+		"such":[
+		"./src/assets/图层 9223.png","./src/assets/图层 9225.png","./src/assets/图层 9262.png"
+		]
+	}
+	],
+	"users":[
+	{
+		"id":"aaa",
+		"psw":"aaa"
+	}
+	]
+}
